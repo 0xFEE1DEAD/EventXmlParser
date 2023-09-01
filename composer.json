@@ -17,5 +17,7 @@
             "email": "wk.pavel@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.2 || ^8.0"
+    }
 }
