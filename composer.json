@@ -2,6 +2,7 @@
     "name": "fee1dead/event-xml-parser",
     "description": "The wrapper over XMLReader for simplify parsing",
     "type": "library",
+    "version": "0.0.1",
     "require-dev": {
         "phpunit/phpunit": "^10.3"
     },
